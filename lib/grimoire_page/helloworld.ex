@@ -4,4 +4,3 @@ defmodule Helloworld do
   end
 end
 
-Helloworld.helloworld()
